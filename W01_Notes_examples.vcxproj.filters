@@ -33,5 +33,8 @@
     <ClCompile Include="Int_linkage_Module_b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="readme.md">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

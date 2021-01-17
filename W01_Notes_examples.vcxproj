@@ -139,8 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Module_a.cpp" />
-    <ClCompile Include="Module_b.cpp" />
+    <ClCompile Include="Ext_linkage_Module_a.cpp" />
+    <ClCompile Include="Ext_linkage_Module_b.cpp" />
+    <ClCompile Include="Int_linkage_Module_a.cpp" />
+    <ClCompile Include="Int_linkage_Module_b.cpp" />
     <ClCompile Include="selection_scope.cpp" />
     <ClCompile Include="shadowed_scope.cpp" />
   </ItemGroup>

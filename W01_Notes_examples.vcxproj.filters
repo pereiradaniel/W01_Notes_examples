@@ -21,5 +21,11 @@
     <ClCompile Include="shadowed_scope.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Module_a.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Module_b.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

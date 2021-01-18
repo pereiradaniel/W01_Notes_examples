@@ -33,8 +33,22 @@
     <ClCompile Include="Int_linkage_Module_b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="readme.md">
+    <ClCompile Include="dot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dothat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

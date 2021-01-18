@@ -150,6 +150,7 @@
     <ClCompile Include="namespace.cpp" />
     <ClCompile Include="selection_scope.cpp" />
     <ClCompile Include="shadowed_scope.cpp" />
+    <ClCompile Include="static.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dot.h" />
